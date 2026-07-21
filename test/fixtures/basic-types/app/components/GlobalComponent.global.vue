@@ -1,5 +1,5 @@
 <template>
   <div>
-    Page deep in group
+    Hello from global component!
   </div>
 </template>
