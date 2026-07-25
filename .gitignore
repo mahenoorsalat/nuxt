@@ -78,7 +78,6 @@ Temporary Items
 
 .vercel_build_output
 .build-*
-.env
 .netlify
 
 fixtures-temp
@@ -91,3 +90,4 @@ playwright-report
 temp
 
 packages/ui-templates/node-compile-cache/
+config.bat
